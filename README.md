@@ -33,7 +33,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/votre-utilisateur/nodejs-ping-api.git
+   git clone https://github.com/raqqaaaa/PING-APIV2.git
    cd nodejs-ping-api
 
 2. **Installer les dépendances :
